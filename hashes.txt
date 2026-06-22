@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Llama que quema
+
+This log tracks the cryptographic history and versioning for the song **Llama que quema** (llama-que-quema).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T04:51:42.277305 | `v1` | `a7d8dfc0e81c887d1cad1011a4d7b4c95b27e1165ff28cd568168985b47edae4` | `556c48cf7a787a0aa1f71ab70aa1715dc2eebb331f0d261066f5cd3b721acfc8` | `2026-06-23_llama-que-quema-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
