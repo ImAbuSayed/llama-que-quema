@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/llama-que-quema/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Llama que quema](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-que-quema/) |
+| **Get License** | [Commercial Licensing for Llama que quema](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-que-quema/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Llama que quema, fuego en la piel
+> Tu sombra me llama, no sé si es cruel
+> Bailamos sin reglas, rompiendo el reloj
+> Tu boca es mi vicio, tu cuerpo mi Dios
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
